@@ -1,0 +1,4 @@
+# File directories that does not need to be added on git
+env1/
+data/
+__pycache__/
